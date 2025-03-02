@@ -13,7 +13,7 @@ Estudante de Sistemas de Informação (UFMS) e desenvolvedor autodidata com 7+ a
 ### Sistema de Gestão de Certificados (IFMS)
 - **Stack**: Laravel 11, Vue.js, MariaDB
 - **Impacto**: Redução de 80% no tempo de emissão de documentos
-- **Status**: Em produção desde 2022 (1k+ usuários)
+- **Status**: Em desenvolvimento contínuo desde 2024 (1k+ usuários)
 - [Repositório](https://github.com/KriawqZero/IFMS-Sistema_CargaHoraria)
 
 ## Formação & Experiência
