@@ -1,17 +1,17 @@
 # Marcilio Ortiz - Desenvolvedor Full Stack
 
-👋 Bem-vindo ao meu perfil GitHub! Sou estudante de Sistemas de Informação na UFMS e desenvolvedor full stack com 7+ anos de experiência prática em projetos pessoais e acadêmicos.
+Olá! Atualmente tenho 18 anos e sou estudante de Sistemas de Informação na UFMS e desenvolvedor full stack com 7+ anos de experiência prática em projetos pessoais e acadêmicos.
 
 ## Habilidades Técnicas
 
 ### Linguagens e Frameworks
 - **Back-end**: PHP (Laravel), JavaScript/TypeScript (Node.js, Express), Python
 - **Front-end**: Vue.js, React, Alpine.js, Tailwind CSS
-- **Banco de Dados**: MySQL/MariaDB, MongoDB
-- **Outros**: Docker, Git, Arquitetura Limpa, IoT (Arduino)
+- **Banco de Dados**: MySQL/MariaDB, PostgreSQL
+- **Outros**: Docker, Git, DevOps, Clean Code, IoT (Arduino)
 
 ### Domínio Técnico
-- Desenvolvimento de sistemas web completos (front-end a deploy)
+- Desenvolvimento de sistemas web completos (front-end, backend a deploy)
 - Integração de APIs RESTful e sistemas legados
 - Otimização de performance e processos burocráticos
 - Implementação de soluções escaláveis
@@ -26,16 +26,7 @@
 - Processo de aprovação de horas simplificado
 - Sistema ativo com atualizações contínuas
 
-**Repositório**: [Link](#) | **Case Completo**: [Link](#)
-
-### Plataforma IoT para Automação
-**Stack**: Python, Arduino, React, Node.js  
-**Funcionalidades**:
-- Monitoramento ambiental em tempo real
-- Controle remoto via interface web
-- Coleta e análise de dados sensorizados
-
-**Repositório**: [Link](#)
+**Repositório**: [Link]([#](https://github.com/KriawqZero/IFMS-Sistema_CargaHoraria))
 
 ## Trajetória de Aprendizado
 
@@ -68,17 +59,12 @@
 
 ## Contato Profissional
 
-- **Portfólio**: [marcilio-dev.com](#)  
-- **LinkedIn**: [linkedin.com/in/marcilio-ortiz](#)  
-- **E-mail**: marcilio.dev@protonmail.com  
-- **GitHub**: [github.com/marcilio-ortiz](#)
+- **Portfólio**: [Link](marciliortiz.dev.br)  
+- **LinkedIn**: [Link]([#](https://www.linkedin.com/in/marc%C3%ADlio-ortiz-barbosa-7b5a35165/))  
+- **E-mail**: contato@marcilio.dev.br  
 
 ---
 
-**Princípios de Desenvolvimento**  
-`Clean Code` | `SOLID` | `KISS` | `Testes Automatizados (em estudo)`
+**Princípios em aprendizado atualmente**  
+`Clean Code` | `SOLID` | `KISS` | `Testes Automatizados`
 
-**Atualizações Recentes**  
-- Implementando TypeScript em projetos legacy  
-- Estudando arquitetura de microsserviços  
-- Explorando RabbitMQ para sistemas distribuídos  
