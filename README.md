@@ -18,10 +18,10 @@ Estudante de Sistemas de Informação (UFMS) e desenvolvedor autodidata com 7+ a
 
 ## Formação & Experiência
 
-- **Bacharelado em SI** (UFMS - 2022/2025)
-- **Técnico em Informática** (IFMS - 2019/2021)
+- **Bacharelado em Sistemas da Informação** (UFMS - 2025/Presente)
+- **Técnico em Informática** (IFMS - 2022/2024)
   - TCC: Sistema de gestão adotado institucionalmente
-- **Pesquisa Acadêmica**: Algoritmos de IA para análise educacional (2022/2023)
+- **Pesquisa Acadêmica**: Algoritmos de IA para automação acadêmica (2022/20221)
 
 ## Tecnologias
 
