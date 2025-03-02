@@ -32,8 +32,8 @@ Estudante de Sistemas de Informação (UFMS) e desenvolvedor autodidata com 7+ a
 
 ## Contato
 
-- **Portfólio**: [marcilio.dev](marciliortiz.dev.br)
-- **LinkedIn**: [/in/marcilio-ortiz](linkedin.com/in/marc%C3%ADlio-ortiz-barbosa-7b5a35165/)
+- **Portfólio**: [Acessar Website](https://marciliortiz.dev.br)
+- **LinkedIn**: [Abrir Perfil](https://linkedin.com/in/marc%C3%ADlio-ortiz-barbosa-7b5a35165/)
 - **Email**: contato@marcilio.dev.br
 
 ---
