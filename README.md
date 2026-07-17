@@ -2,8 +2,6 @@
 
 Desenvolvedor Full Stack. Construindo software real desde os 12 anos.
 
-Hoje, foco na criação de sistemas web robustos e escaláveis. Minha abordagem une a curiosidade técnica de quem começou tentando compilar mods de Minecraft com a responsabilidade de quem entrega soluções B2B em produção.
-
 ### Foco Técnico
 * **Backend**: NestJS, Node.js, Laravel, Supabase.
 * **Frontend**: Next.js, React, Tailwind CSS.
